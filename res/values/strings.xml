@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Pusher Test!</string>
+    <string name="app_name">Strikeup</string>
+    <string name="chooseSocialMediaActivity">Select Social Media</string>
+    <string name="facebookActivity">Facebook Activity</string>
+
+</resources>
